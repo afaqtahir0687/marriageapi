@@ -1,0 +1,1 @@
+Your Email Verification code is : {{ $code }}
